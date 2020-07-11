@@ -1,0 +1,14 @@
+{
+  "name": "unittesting_jest",
+  "version": "1.0.0",
+  "description": "Learning how to perform Unit Testing using Jest test framework",
+  "main": "sum.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "author": "Sabine",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
